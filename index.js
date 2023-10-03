@@ -1,5 +1,5 @@
 // Daniel Cadenas Dominguez
-// Repositorio GitHub:
+// Repositorio GitHub: https://github.com/DanyCarter/Actividad_no_Evaluable.git 
 
 const numero = prompt("Por favor ingrese numero");
 
